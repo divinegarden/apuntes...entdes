@@ -19,3 +19,10 @@ Editar el código fuente | Compilar el código fuente | Ejecutar el código
 ● Abrimos editor        | ● Pasamos código fuente   | ● Ejecutamos
 ● Escribimos código     | ● Ejecutamos compilador   |
 ● Guardamos coódigo     |                           |
+
+
+### Tareas por realizar
+
+- [x] Editar
+- [ ] Compilar
+- [ ] Ejecutar
