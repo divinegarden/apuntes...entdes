@@ -23,6 +23,6 @@ Editar el código fuente | Compilar el código fuente | Ejecutar el código
 
 ### Tareas por realizar
 
-- [x] Editar
+- [x] ~Editar~
 - [ ] Compilar
 - [ ] Ejecutar
